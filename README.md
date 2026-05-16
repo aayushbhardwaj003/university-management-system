@@ -27,6 +27,6 @@ A Python + MySQL based University Management System project.
    python university_management.py
 
 ##Images
-![Output1](Screenshot/output1.png)
-![Output2](Screenshot/output2.png)
-![Output3](Screenshot/output3.png)
+![Output1](Screenshots/output1.png)
+![Output2](Screenshots/output2.png)
+![Output3](Screenshots/output3.png)
