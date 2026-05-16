@@ -25,3 +25,8 @@ A Python + MySQL based University Management System project.
 
 3. Run the Python program:
    python university_management.py
+
+##Images
+![Output1](Screenshot/output1.png)
+![Output2](Screenshot/output2.png)
+![Output3](Screenshot/output3.png)
