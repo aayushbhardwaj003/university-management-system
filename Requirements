@@ -1,0 +1,14 @@
+Java JDK 8 or above
+MySQL Server 8.0 or above
+MySQL Connector/J (JDBC Driver)
+
+Required Database:
+- MySQL
+
+Required Tables:
+- Student
+- Instructor
+- Course
+- Takes
+- Teaches
+- Department
